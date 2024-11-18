@@ -1,0 +1,16 @@
+Nos han solicitado el diseño y desarrollo de un sistema de Audiencias Públicas.
+Tanto los sujetos obligados como los participantes de las audiencias pueden ser personas físicas o jurídicas, de las
+cuales siempre interesa mostrar su nombre en el resumen de la audiencia, independientemente de su tipo.
+Además, cada persona (física o jurídica) debe poseer un medio preferido de comunicación por el cual se le enviarán
+avisos de distintos tipos desde la plataforma.
+Nos han dicho que la dirección debe ser meramente informativa y que no es obligatorio completar todos los campos,
+excepto la provincia y municipio/comuna.
+Nuestro equipo ya estuvo trabajando y generó el siguiente diagrama de clases que, por cierto, consideramos correcto:
+
+Se pide: dado el dominio presentado y el diagrama de clases propuesto, genere un DER que persista el modelo
+indicando claramente:
+• Qué elementos del modelo son necesarios persistir.
+• Las claves primarias, las foráneas y las restricciones según corresponda.
+• Si fueran necesarias, estrategias de mapeo de herencia utilizadas.
+Importante: si lo cree necesario, puede considerar realizar algún cambio que no afecte significativamente el diseño
+propuesto.
