@@ -1,0 +1,20 @@
+Nos han encargado realizar la persistencia de una parte de un Sistema para una cadena de gimnasios.
+Los deportistas contarán con varios medios de contactos, los cuales serán números de WhatsApp. También
+escogerán una motivación principal para entrenar, las cuales pueden ser:
+● bajar de peso,
+● tonificar el cuerpo
+● o mantener la figura.
+De esta motivación dependerá la generación de la rutina que el Sistema generará de forma personalizada
+para esa persona.
+La rutina, a su vez, tendrá el detalle por cada día de entrenamiento, cada uno de los cuales contará con los
+ejercicios a realizar. Es necesario que cada rutina sepa cuál fue su anterior, y que cada día de entrenamiento
+sepa cual es el siguiente.
+3
+Se pide: dado el dominio presentado y el diagrama de clases propuesto, escriba las anotaciones necesarias
+para que el modelo se pueda persistir en una base de datos relacional mediante la técnica de ORM (data
+mapper), además de dibujar el modelo de datos que se genera a partir de su mapeo. Indique claramente:
+● Qué elementos del modelo son necesarios persistir.
+● Las claves primarias, las foráneas y las restricciones según corresponda.
+● Si fueran necesarias, estrategias de mapeo de herencia utilizadas.
+Importante: si lo cree necesario, puede considerar realizar algún cambio que no afecte significativamente el
+diseño propuesto.
